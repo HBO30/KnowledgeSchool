@@ -9,13 +9,9 @@ builder.Services.AddDbContext<DataContext>(options =>
 
 var app = builder.Build();
 
-app.MapGet("/", ()=> "welcome");
+app.MapGet("/", ()=> "welcome to knowledge school api");
 
-app.UseHttpsRedirection();
 
-app.UseAuthorization();
-
-app.MapControllers();
 
 // { block start 
 // movies crud

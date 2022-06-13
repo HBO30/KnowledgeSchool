@@ -59,3 +59,8 @@ C:\Users\Mohammad\source\SVU\KnowledgeSchool\obj\Debug\net6.0\refint\KnowledgeSc
 C:\Users\Mohammad\source\SVU\KnowledgeSchool\obj\Debug\net6.0\KnowledgeSchool.pdb
 C:\Users\Mohammad\source\SVU\KnowledgeSchool\obj\Debug\net6.0\KnowledgeSchool.genruntimeconfig.cache
 C:\Users\Mohammad\source\SVU\KnowledgeSchool\obj\Debug\net6.0\ref\KnowledgeSchool.dll
+C:\Users\Mohammad\source\SVU\KnowledgeSchool\bin\Debug\net6.0\publish\web.config
+C:\Users\Mohammad\source\SVU\KnowledgeSchool\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Mohammad\source\SVU\KnowledgeSchool\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Mohammad\source\SVU\KnowledgeSchool\bin\Debug\net6.0\publish\KnowledgeSchool.deps.json
+C:\Users\Mohammad\source\SVU\KnowledgeSchool\bin\Debug\net6.0\publish\KnowledgeSchool.runtimeconfig.json
