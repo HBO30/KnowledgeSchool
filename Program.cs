@@ -7,8 +7,9 @@ builder.Services.AddDbContext<DataContext>(options =>
  options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
  );
 
+builder.Services.AddCors();
 var app = builder.Build();
-
+app.UseCors(c=> c.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 app.MapGet("/", ()=> "welcome to knowledge school api");
 
 
